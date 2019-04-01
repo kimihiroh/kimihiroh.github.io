@@ -4,19 +4,26 @@ layout: default
 
 # Kimihiro Hasegawa
 
+
 ## About
 I am a 4th year undergraduate student in the Department of Computer Science and Systems Engineering at Kobe University. I am interested in natural language processing, especially, reading comprehension and question generation.
+
+
 
 ## Education
 - Apr. 2015 - : <br/>
   Undergraduate Student, Department of Computer Science and Systems Engineering, Kobe University
-
+  
 - Aug. 2017 - Apr. 2018 : <br/>
   Exchange Student, Dietrich School of Arts & Sciences, University of Pittsburgh
 
+
+
 ## Research Experience
-- Mar. 2018 - Aug. 2018 : <br/>
+- May. 2018 - Aug. 2018 : <br/>
   Summer Internship, Language Technologies Institute, Carnegie Mellon University, advised by [Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
+
+
 
 ## Publications
 - Anaphora Reasoning Question Generation Using Entity Coreference<br/>
