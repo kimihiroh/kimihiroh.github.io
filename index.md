@@ -21,7 +21,7 @@ I am a 4th year undergraduate student in the Department of Computer Science and 
 
 ## Research Experience
 - May. 2018 - Aug. 2018 : <br/>
-  Summer Internship, Language Technologies Institute, Carnegie Mellon University, supervised by [Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
+  Summer Internship, Language Technologies Institute, Carnegie Mellon University, supervised by [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
 
 
 
