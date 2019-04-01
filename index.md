@@ -2,12 +2,34 @@
 layout: default
 ---
 
-# About 
-I am a 4th year undergraduate student in the Deapartment of Computer Science and Systems Engineering at Kobe University. I am interested in natural language processing, especially, reading comprehension and question generation. 
+# Kimihiro Hasegawa
+
+## About
+I am a 4th year undergraduate student in the Department of Computer Science and Systems Engineering at Kobe University. I am interested in natural language processing, especially, reading comprehension and question generation.
+
+## Education
+- Apr. 2015 - : <br/>
+  Undergraduate Student, Department of Computer Science and Systems Engineering, Kobe University
+
+- Aug. 2017 - Apr. 2018 : <br/>
+  Exchange Student, Dietrich School of Arts & Sciences, University of Pittsburgh
+
+## Research Experience
+- Mar. 2018 - Aug. 2018 : <br/>
+  Summer Internship, Language Technologies Institute, Carnegie Mellon University, advised by [Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
+
+## Publications
+- Anaphora Reasoning Question Generation Using Entity Coreference<br/>
+  Kimihiro Hasegawa, Takaaki Matsumoto, Teruko Mitamura<br/>
+  NLP 2019 [[Poster](https://drive.google.com/file/d/1LlrQe4RhtwODTitexcz3iuEYe4J_qlo3/view?usp=sharing)] [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P5-18.pdf)]
+
+- Textual Entailment based Question Generation<br/>
+  Takaaki Matsumoto, Kimihiro Hasegawa, Yukari Yamakawa and Teruko Mitamura<br/>
+  In the Proceedings of the Workshop on 2IS&NLG  [[Paper](https://www.aclweb.org/anthology/W18-6704)]
 
 <!---
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
- 
+
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
