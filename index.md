@@ -3,10 +3,10 @@ layout: default
 ---
 
 # Kimihiro Hasegawa
-
+[ ljnjzbo417 at gmail dot com ]
 
 ## About
-I am a 4th year undergraduate student in the Department of Computer Science and Systems Engineering at Kobe University. I am interested in natural language processing, especially, reading comprehension and question generation.
+I am a 4th year undergraduate student in the Department of Computer Science and Systems Engineering at Kobe University. I am interested in natural language processing, especially reading comprehension and question generation.
 
 
 
@@ -32,7 +32,7 @@ I am a 4th year undergraduate student in the Department of Computer Science and 
 
 - Textual Entailment based Question Generation<br/>
   Takaaki Matsumoto, Kimihiro Hasegawa, Yukari Yamakawa and Teruko Mitamura<br/>
-  In the Proceedings of the Workshop on 2IS&NLG  [[Paper](https://www.aclweb.org/anthology/W18-6704)]
+  In the Proceedings of the Workshop on 2IS&NLG, 2018 [[Paper](https://www.aclweb.org/anthology/W18-6704)]
 
 <!---
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
