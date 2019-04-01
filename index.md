@@ -13,7 +13,7 @@ I am a 4th year undergraduate student in the Department of Computer Science and 
 ## Education
 - Apr. 2015 - : <br/>
   Undergraduate Student, Department of Computer Science and Systems Engineering, Kobe University
-  
+
 - Aug. 2017 - Apr. 2018 : <br/>
   Exchange Student, Dietrich School of Arts & Sciences, University of Pittsburgh
 
@@ -21,7 +21,7 @@ I am a 4th year undergraduate student in the Department of Computer Science and 
 
 ## Research Experience
 - May. 2018 - Aug. 2018 : <br/>
-  Summer Internship, Language Technologies Institute, Carnegie Mellon University, advised by [Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
+  Summer Internship, Language Technologies Institute, Carnegie Mellon University, supervised by [Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
 
 
 
