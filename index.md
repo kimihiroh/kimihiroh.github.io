@@ -4,8 +4,8 @@ layout: default
 
 # About 
 I am a 4th year undergraduate student in the Deapartment of Computer Science and Systems Engineering at Kobe University. I am interested in natural language processing, especially, reading comprehension and question generation. 
- 
-```
+
+<!---
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
  
 
@@ -122,3 +122,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+--->
