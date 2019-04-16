@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Kimihiro Hasegawa
-[ ljnjzbo417 at gmail dot com ]
+[ kimihiroh at stu dot kobe-u dot ac dot jp ]
 
 ## About
 I am a 4th year undergraduate student in the Department of Computer Science and Systems Engineering at Kobe University. I am interested in natural language processing, especially reading comprehension and question generation.
