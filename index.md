@@ -3,13 +3,17 @@ layout: default
 ---
 
 # Kimihiro Hasegawa
-[ kimihiroh at stu dot kobe-u dot ac dot jp ]
+[ Email: kimihiroh at stu dot kobe-u dot ac dot jp ]<br/>
+(replace "at" and "dot" with "@" and ".", respectively)<br/><br/><br/>
 
 ## About
-I am a 4th year undergraduate student in [the Department of Computer Science and Systems Engineering](http://www.csi.kobe-u.ac.jp/cs/site/en/index.html) at [Kobe University](https://www.kobe-u.ac.jp/en/index.html). My research interest is in natural language processing, especially reading comprehension and question generation.  [[Resume](https://drive.google.com/file/d/1NhXR1YcZY-Gq96Go4t3WQUm2dp-8JWkE/view?usp=sharing)]
+I am a 4th year undergraduate student in [the Department of Computer Science and Systems Engineering](http://www.csi.kobe-u.ac.jp/cs/site/en/index.html) at [Kobe University](https://www.kobe-u.ac.jp/en/index.html). My research interest is in natural language processing, especially reading comprehension and question generation.  [[Resume(pdf)](https://drive.google.com/file/d/1NhXR1YcZY-Gq96Go4t3WQUm2dp-8JWkE/view?usp=sharing)]
+
+### _News_
+- I passes the entrance examination for Graduate School of System Informatics, Kobe University. (Sep 11, 2019)
 
 ***
-
+<br/>
 ## Education
 - Apr. 2015 - present: <br/>
   Undergraduate Student, Department of Computer Science and Systems Engineering, Kobe University, advised by [Dr. Tetsuya Takiguchi](http://www.me.cs.scitec.kobe-u.ac.jp/~takigu/)
@@ -19,137 +23,27 @@ I am a 4th year undergraduate student in [the Department of Computer Science and
   Exchange Student, Dietrich School of Arts & Sciences, University of Pittsburgh
 
 ***
-
+<br/>
 ## Research Experience
 - May. 2018 - Aug. 2018 : <br/>
   Summer Internship, Language Technologies Institute, Carnegie Mellon University, supervised by [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
 
 ***
-
+<br/>
 ## Publications
 - Anaphora Reasoning Question Generation Using Entity Coreference<br/>
-  Kimihiro Hasegawa, Takaaki Matsumoto, Teruko Mitamura<br/>
-  NLP 2019 [[Poster](https://drive.google.com/file/d/1LlrQe4RhtwODTitexcz3iuEYe4J_qlo3/view?usp=sharing)] [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P5-18.pdf)]
+  __Kimihiro Hasegawa__, Takaaki Matsumoto, Teruko Mitamura<br/>
+  _NLP 2019_ [[Poster](https://drive.google.com/file/d/1LlrQe4RhtwODTitexcz3iuEYe4J_qlo3/view?usp=sharing)] [[Paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P5-18.pdf)]
 
 - Textual Entailment based Question Generation<br/>
-  Takaaki Matsumoto, Kimihiro Hasegawa, Yukari Yamakawa and Teruko Mitamura<br/>
-  In the Proceedings of the Workshop on 2IS&NLG, 2018 [[Paper](https://www.aclweb.org/anthology/W18-6704)]
+  Takaaki Matsumoto, __Kimihiro Hasegawa__, Yukari Yamakawa and Teruko Mitamura<br/>
+  In _the Proceedings of the Workshop on 2IS&NLG, 2018_ [[Paper](https://www.aclweb.org/anthology/W18-6704)]
 
-<!---
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+***
 
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-```
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-```
-```
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-```
-```
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
---->
+<br/>
+### Personal
+My favorite movies:
+- _About Time_
+- _The Shawshank Redemption_
+- _3 Idiots_
