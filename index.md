@@ -6,24 +6,25 @@ layout: default
 [ kimihiroh at stu dot kobe-u dot ac dot jp ]
 
 ## About
-I am a 4th year undergraduate student in the Department of Computer Science and Systems Engineering at Kobe University. My research interest is in natural language processing, especially reading comprehension and question generation.
+I am a 4th year undergraduate student in [the Department of Computer Science and Systems Engineering](http://www.csi.kobe-u.ac.jp/cs/site/en/index.html) at [Kobe University](https://www.kobe-u.ac.jp/en/index.html). My research interest is in natural language processing, especially reading comprehension and question generation.  [resume](https://drive.google.com/file/d/1NhXR1YcZY-Gq96Go4t3WQUm2dp-8JWkE/view?usp=sharing)
 
-
+***
 
 ## Education
-- Apr. 2015 - : <br/>
-  Undergraduate Student, Department of Computer Science and Systems Engineering, Kobe University
+- Apr. 2015 - present: <br/>
+  Undergraduate Student, Department of Computer Science and Systems Engineering, Kobe University, advised by [Dr. Tetsuya Takiguchi](http://www.me.cs.scitec.kobe-u.ac.jp/~takigu/)
+
 
 - Aug. 2017 - Apr. 2018 : <br/>
   Exchange Student, Dietrich School of Arts & Sciences, University of Pittsburgh
 
-
+***
 
 ## Research Experience
 - May. 2018 - Aug. 2018 : <br/>
   Summer Internship, Language Technologies Institute, Carnegie Mellon University, supervised by [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
 
-
+***
 
 ## Publications
 - Anaphora Reasoning Question Generation Using Entity Coreference<br/>
