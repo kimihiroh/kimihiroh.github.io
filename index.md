@@ -6,7 +6,7 @@ layout: default
 [ kimihiroh at stu dot kobe-u dot ac dot jp ]
 
 ## About
-I am a 4th year undergraduate student in [the Department of Computer Science and Systems Engineering](http://www.csi.kobe-u.ac.jp/cs/site/en/index.html) at [Kobe University](https://www.kobe-u.ac.jp/en/index.html). My research interest is in natural language processing, especially reading comprehension and question generation.  [resume](https://drive.google.com/file/d/1NhXR1YcZY-Gq96Go4t3WQUm2dp-8JWkE/view?usp=sharing)
+I am a 4th year undergraduate student in [the Department of Computer Science and Systems Engineering](http://www.csi.kobe-u.ac.jp/cs/site/en/index.html) at [Kobe University](https://www.kobe-u.ac.jp/en/index.html). My research interest is in natural language processing, especially reading comprehension and question generation.  [[Resume](https://drive.google.com/file/d/1NhXR1YcZY-Gq96Go4t3WQUm2dp-8JWkE/view?usp=sharing)]
 
 ***
 

@@ -1,9 +1,11 @@
-title: Kimi
+title: Kimi's Website
 logo:
-description: Thank you for visiting my website!:-)
+description: Thank you for visiting my website!:-) ![Octocat](./Github-Mark-64px.png)
 show_downloads: false
 is_project_page: false
 google_analytics:
 theme: jekyll-theme-minimal
 plugins:
  - jekyll-sitemap
+github:
+  is_project_page: false
