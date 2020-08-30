@@ -3,11 +3,12 @@ layout: default
 ---
 
 # Kimihiro Hasegawa
-[ Email: kimihiro at stu dot kobe-u dot ac dot jp ]<br/>
-(replace "at" and "dot" with "@" and ".", respectively)<br/><br/><br/>
+[ Email: kimihiro at andrew dot cmu dot edu ]<br/>
+(replace "at" and "dot" with "@" and ".", respectively)<br/>
+(Updated on August 30, 2020)<br/><br/>
 
 ## About
-I am a 1st year master student, Master of Language Technologies, at [Language Technologies Institutes](https://www.lti.cs.cmu.edu/) in [Carnegie Mellon University](https://www.cmu.edu/). My current research focus is event in text, specifically Event & Argument Extraction, Event Sequencing and Event Coreference. During my undergrad, I worked on a research of language generation, especially question generation.  [[Resume(pdf)](https://drive.google.com/file/d/1zpdqMH04BwGE927RD0Un0Mr1kdFQypzZ/view?usp=sharing)] (Updated on August 30, 2020)
+I am a 1st year master student, Master of Language Technologies, at [Language Technologies Institutes](https://www.lti.cs.cmu.edu/) in [Carnegie Mellon University](https://www.cmu.edu/). My current research focus is event in text, specifically Event & Argument Extraction, Event Sequencing and Event Coreference. During my undergrad, I worked on a research of language generation, especially question generation.  [[Resume(pdf)](https://drive.google.com/file/d/1zpdqMH04BwGE927RD0Un0Mr1kdFQypzZ/view?usp=sharing)]
 
 ### _News_
 - I have started my Master of Language Technologies program at Language Technologies Institute in Carnegie Mellon University. (May 15, 2020)
