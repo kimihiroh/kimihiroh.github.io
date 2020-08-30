@@ -7,19 +7,19 @@ layout: default
 (replace "at" and "dot" with "@" and ".", respectively)<br/><br/><br/>
 
 ## About
-I am a 1st year graduate student at [Graduate School of System Informatics](http://www.csi.kobe-u.ac.jp/english/index.html) in [Kobe University](https://www.kobe-u.ac.jp/en/index.html). From the summer 2020, I am going to be a 1st year master student, MLT, at [Language Technologies Institutes](https://www.lti.cs.cmu.edu/) in [Carnegie Mellon University](https://www.cmu.edu/). My research interest is in natural language processing, especially question generation and event.  [[Resume(pdf)](https://drive.google.com/file/d/1zpdqMH04BwGE927RD0Un0Mr1kdFQypzZ/view?usp=sharing)]
+I am a 1st year master student, Master of Language Technologies, at [Language Technologies Institutes](https://www.lti.cs.cmu.edu/) in [Carnegie Mellon University](https://www.cmu.edu/). My current research focus is event in text, specifically Event & Argument Extraction, Event Sequencing and Event Coreference. During my undergrad, I worked on a research of language generation, especially question generation.  [[Resume(pdf)](https://drive.google.com/file/d/1zpdqMH04BwGE927RD0Un0Mr1kdFQypzZ/view?usp=sharing)] (Updated on August 30, 2020)
 
 ### _News_
+- I have started my Master of Language Technologies program at Language Technologies Institute in Carnegie Mellon University. (May 15, 2020)
 - I have obtained Bachelor of Engineering from Kobe University. (March 25, 2020)
-- I am admitted to Master of Language Technologies at Language Technologies Institute in Carnegie Mellon University. (February 7, 2020)
 
 ***
 <!-- <br/> -->
 ## Education
 - May. 2020 - Present: <br/>
-  Master of Language Technologies, Language Technologies Institute, Carnegie Mellon University
+  Master of Language Technologies Student, Language Technologies Institute, Carnegie Mellon University, advised by [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
 
-- Apr. 2020 - Present: <br/>
+- Apr. 2020 - Present (Leave of Absense ): <br/>
   Master Student, Graduate School of System Informatics, Kobe University, advised by [Dr. Tetsuya Takiguchi](http://www.me.cs.scitec.kobe-u.ac.jp/~takigu/)
 
 - Apr. 2015 - Mar. 2020: <br/>
@@ -32,12 +32,16 @@ I am a 1st year graduate student at [Graduate School of System Informatics](http
 ***
 <!-- <br/> -->
 ## Research Experience
+- May. 2020 - Present: <br/>
+  - Directed Research, Language Technologies Institute, Carnegie Mellon University, advised by [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
+  - Working on KAIROS project about event in text
+
 - Apr. 2019 - Mar. 2020: <br/>
   - Senior Research Project, Department of Computer Science and Systems Engineering, Kobe University, advised by [Dr. Tetsuya Takiguchi](http://www.me.cs.scitec.kobe-u.ac.jp/~takigu/)
 
 - May. 2018 - Aug. 2018 : <br/>
   - Summer Research Internship, Language Technologies Institute, Carnegie Mellon University, supervised by [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
-  - Worked on Smart Reader Project
+  - Worked on Smart Reader project about question generation
 
 ***
 <!-- <br/> -->
