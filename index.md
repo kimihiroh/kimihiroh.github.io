@@ -5,30 +5,13 @@ layout: default
 # Kimihiro Hasegawa
 [ Email: kimihiro at andrew dot cmu dot edu ]<br/>
 (replace "at" and "dot" with "@" and ".", respectively)<br/>
-(Updated on August 30, 2020)<br/><br/>
+(Last update: May 27, 2021)<br/><br/>
 
 ## About
-I am a 1st year master student, Master of Language Technologies, at [Language Technologies Institutes](https://www.lti.cs.cmu.edu/) in [Carnegie Mellon University](https://www.cmu.edu/). My current research focus is event in text, specifically Event & Argument Extraction, Event Sequencing and Event Coreference. During my undergrad, I worked on a research of language generation, especially question generation.  [[Resume(pdf)](https://drive.google.com/file/d/1zpdqMH04BwGE927RD0Un0Mr1kdFQypzZ/view?usp=sharing)]
+I am a 1st year master student, Master of Language Technologies, at [Language Technologies Institutes](https://www.lti.cs.cmu.edu/) in [Carnegie Mellon University](https://www.cmu.edu/). My current research focus is event in text, specifically event extraction and event sequencing. During my undergrad, I worked on language generation, especially question generation.  [[Resume(pdf)](https://drive.google.com/file/d/1zpdqMH04BwGE927RD0Un0Mr1kdFQypzZ/view?usp=sharing)]
 
 ### _News_
 - I have started my Master of Language Technologies program at Language Technologies Institute in Carnegie Mellon University. (May 15, 2020)
-- I have obtained Bachelor of Engineering from Kobe University. (March 25, 2020)
-
-***
-<!-- <br/> -->
-## Education
-- May. 2020 - Present: <br/>
-  Master of Language Technologies Student, Language Technologies Institute, Carnegie Mellon University, advised by [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
-
-- Apr. 2020 - Present (Leave of Absense ): <br/>
-  Master Student, Graduate School of System Informatics, Kobe University, advised by [Dr. Tetsuya Takiguchi](http://www.me.cs.scitec.kobe-u.ac.jp/~takigu/)
-
-- Apr. 2015 - Mar. 2020: <br/>
-  Undergraduate Student, Department of Computer Science and Systems Engineering, Kobe University, advised by [Dr. Tetsuya Takiguchi](http://www.me.cs.scitec.kobe-u.ac.jp/~takigu/)
-  - Bachelor's Thesis: "Transfer Learning to Generate Multi-sentence Questions Leveraging Difference between Datasets"
-
-- Aug. 2017 - Apr. 2018 : <br/>
-  International Exchange Student, Dietrich School of Arts & Sciences, University of Pittsburgh
 
 ***
 <!-- <br/> -->
@@ -42,7 +25,7 @@ I am a 1st year master student, Master of Language Technologies, at [Language Te
 
 - May. 2018 - Aug. 2018 : <br/>
   - Summer Research Internship, Language Technologies Institute, Carnegie Mellon University, supervised by [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
-  - Worked on Smart Reader project about question generation
+  - Worked on question generation in Smart Reader project
 
 ***
 <!-- <br/> -->
@@ -60,6 +43,20 @@ I am a 1st year master student, Master of Language Technologies, at [Language Te
   _2IS&NLG 2018_ [[Paper](https://www.aclweb.org/anthology/W18-6704)]
 
 ***
+<!-- <br/> -->
+## Education
+- May. 2020 - Present: <br/>
+  Master of Language Technologies Student, Language Technologies Institute, Carnegie Mellon University, advised by [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
+
+- Apr. 2020 - Present (Leave of Absense): <br/>
+  Master Student, Graduate School of System Informatics, Kobe University, advised by [Dr. Tetsuya Takiguchi](http://www.me.cs.scitec.kobe-u.ac.jp/~takigu/)
+
+- Apr. 2015 - Mar. 2020: <br/>
+  Undergraduate Student, Department of Computer Science and Systems Engineering, Kobe University, advised by [Dr. Tetsuya Takiguchi](http://www.me.cs.scitec.kobe-u.ac.jp/~takigu/)
+  - Bachelor's Thesis: "Transfer Learning to Generate Multi-sentence Questions Leveraging Difference between Datasets"
+
+- Aug. 2017 - Apr. 2018 : <br/>
+  International Exchange Student, Dietrich School of Arts & Sciences, University of Pittsburgh
 
 <!-- <br/> -->
 ### Personal
