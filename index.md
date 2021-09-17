@@ -5,27 +5,27 @@ layout: default
 # Kimihiro Hasegawa
 [ Email: kimihiro at andrew dot cmu dot edu ]<br/>
 (replace "at" and "dot" with "@" and ".", respectively)<br/>
-(Last update: May 27, 2021)<br/><br/>
+(Last update: September 17, 2021)<br/><br/>
 
 ## About
-I am a 1st year master student, Master of Language Technologies, at [Language Technologies Institutes](https://www.lti.cs.cmu.edu/) in [Carnegie Mellon University](https://www.cmu.edu/). My current research focus is event in text, specifically event extraction and event sequencing. During my undergrad, I worked on language generation, especially question generation.  [[Resume(pdf)](https://drive.google.com/file/d/1zpdqMH04BwGE927RD0Un0Mr1kdFQypzZ/view?usp=sharing)]
+I am a 2nd-year Master of Language Technologies student at [Language Technologies Institutes](https://www.lti.cs.cmu.edu/) in [Carnegie Mellon University](https://www.cmu.edu/). My current research focus is event in text, specifically event extraction and event temporal sequencing. During my undergrad, I worked on language generation, especially question generation.  [[Resume(pdf)](https://drive.google.com/file/d/1mOIOkNnP_9t8pfma9fFWkBA2YDJfPpFV/view?usp=sharing)]
 
-### _News_
-- I have started my Master of Language Technologies program at Language Technologies Institute in Carnegie Mellon University. (May 15, 2020)
+<!-- ### _News_ -->
 
 ***
 <!-- <br/> -->
 ## Research Experience
-- May. 2020 - Present: <br/>
-  - Directed Research, Language Technologies Institute, Carnegie Mellon University, advised by [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
-  - Working on KAIROS project about event in text
+- May. 2020 - Present @CMU <br/>
+  - Graduate Research Assistant: Event-oriented Information Extraction, Temporal Sequencing
+  - Adviser: [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
 
-- Apr. 2019 - Mar. 2020: <br/>
-  - Senior Research Project, Department of Computer Science and Systems Engineering, Kobe University, advised by [Dr. Tetsuya Takiguchi](http://www.me.cs.scitec.kobe-u.ac.jp/~takigu/)
+- Apr. 2019 - Mar. 2020 @Kobe University <br/>
+  - Undergraduate Senior Research Project: Reasoning-enhansing Question Generation
+  - Adviser: [Dr. Tetsuya Takiguchi](http://www.me.cs.scitec.kobe-u.ac.jp/~takigu/)
 
-- May. 2018 - Aug. 2018 : <br/>
-  - Summer Research Internship, Language Technologies Institute, Carnegie Mellon University, supervised by [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
-  - Worked on question generation in Smart Reader project
+- May. 2018 - Aug. 2018 @CMU <br/>
+  - Summer Research Intern: Smart Reader project
+  - Superviser: [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
 
 ***
 <!-- <br/> -->
