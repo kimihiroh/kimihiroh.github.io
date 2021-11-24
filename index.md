@@ -5,10 +5,10 @@ layout: default
 # Kimihiro Hasegawa
 [ Email: kimihiro at andrew dot cmu dot edu ]<br/>
 (replace "at" and "dot" with "@" and ".", respectively)<br/>
-(Last update: September 17, 2021)<br/><br/>
+(Last update: November 24, 2021)<br/><br/>
 
 ## About
-I am a 2nd-year Master of Language Technologies student at [Language Technologies Institutes](https://www.lti.cs.cmu.edu/) in [Carnegie Mellon University](https://www.cmu.edu/). My current research focus is event in text, specifically event extraction and event temporal sequencing. During my undergrad, I worked on language generation, especially question generation.  [[Resume(pdf)](https://drive.google.com/file/d/1mOIOkNnP_9t8pfma9fFWkBA2YDJfPpFV/view?usp=sharing)]
+I am a 2nd-year Master of Language Technologies student at [Language Technologies Institutes](https://www.lti.cs.cmu.edu/) in [Carnegie Mellon University](https://www.cmu.edu/). My current research focus is event in text, specifically event extraction and event temporal sequencing. During my undergrad, I worked on text generation, especially question generation. [[CV(pdf)](https://drive.google.com/file/d/1fGAvWT2AmVUpuLq5hNzCks8o8zg_ZxzG/view?usp=sharing)]
 
 <!-- ### _News_ -->
 
@@ -30,6 +30,11 @@ I am a 2nd-year Master of Language Technologies student at [Language Technologie
 ***
 <!-- <br/> -->
 ## Publications
+- “Cross-document Event Identity via Dense Annotation.” <br/> 
+  Adithya Pratapa, Zhengzhong Liu, __Kimihiro Hasegawa__, Linwei Li, Yukari Yamakawa, Shikun
+Zhang, Teruko Mitamura.<br/>
+  _CoNLL 2021_ [[Paper](https://aclanthology.org/2021.conll-1.39/)]
+
 - "Transfer Learning to Generate Multi-sentence Questions Leveraging Difference between Datasets"<br/>
   __Kimihiro Hasegawa__, Takaaki Matsumoto, Ryoichi Takashima, Tetsuya Takiguchi, Yasuo Ariki, Teruko Mitamura<br/>
   _NLP 2020_ [[Poster](https://drive.google.com/file/d/1icHQc61CXhp-nS1lZLuxd0rke1Rbk3B9/view?usp=sharing)] [[Paper](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P5-26.pdf)]
