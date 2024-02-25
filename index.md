@@ -5,10 +5,10 @@ layout: default
 # Kimihiro Hasegawa
 [ Email: kimihiro at andrew dot cmu dot edu ]<br/>
 (replace "at" and "dot" with "@" and ".", respectively)<br/>
-(Last update: November 24, 2021)<br/><br/>
+(Last update: February 25, 2024)<br/><br/>
 
 ## About
-I am a 2nd-year Master of Language Technologies student at [Language Technologies Institutes](https://www.lti.cs.cmu.edu/) in [Carnegie Mellon University](https://www.cmu.edu/). My current research focus is event in text, specifically event extraction and event temporal sequencing. During my undergrad, I worked on text generation, especially question generation. [[CV(pdf)](https://drive.google.com/file/d/1fGAvWT2AmVUpuLq5hNzCks8o8zg_ZxzG/view?usp=sharing)]
+I am a Ph.D. student at [Language Technologies Institutes](https://www.lti.cs.cmu.edu/) in [Carnegie Mellon University](https://www.cmu.edu/). My research focus is on event-centric information extraction, specifically event temporal reasoning. During my undergrad, I worked on text generation, especially question generation. [[CV(pdf)](https://drive.google.com/file/d/1fGAvWT2AmVUpuLq5hNzCks8o8zg_ZxzG/view?usp=sharing)]
 
 <!-- ### _News_ -->
 
@@ -16,7 +16,7 @@ I am a 2nd-year Master of Language Technologies student at [Language Technologie
 <!-- <br/> -->
 ## Research Experience
 - May. 2020 - Present @CMU <br/>
-  - Graduate Research Assistant: Event-oriented Information Extraction, Temporal Sequencing
+  - Graduate Research Assistant: Event-oriented Information Extraction
   - Adviser: [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
 
 - Apr. 2019 - Mar. 2020 @Kobe University <br/>
@@ -50,11 +50,11 @@ Zhang, Teruko Mitamura.<br/>
 ***
 <!-- <br/> -->
 ## Education
-- May. 2020 - Present: <br/>
-  Master of Language Technologies Student, Language Technologies Institute, Carnegie Mellon University, advised by [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
-
-- Apr. 2020 - Present (Leave of Absense): <br/>
-  Master Student, Graduate School of System Informatics, Kobe University, advised by [Dr. Tetsuya Takiguchi](http://www.me.cs.scitec.kobe-u.ac.jp/~takigu/)
+- May. 2022 - Present: <br />
+  Ph.D. student, Language Technologies Institute, Carnegie Mellon University, advised by [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
+  
+- May. 2020 - May. 2022: <br/>
+  Master of Language Technologies, Language Technologies Institute, Carnegie Mellon University, advised by [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
 
 - Apr. 2015 - Mar. 2020: <br/>
   Undergraduate Student, Department of Computer Science and Systems Engineering, Kobe University, advised by [Dr. Tetsuya Takiguchi](http://www.me.cs.scitec.kobe-u.ac.jp/~takigu/)
