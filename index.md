@@ -5,7 +5,7 @@ layout: default
 # Kimihiro Hasegawa
 [ Email: kimihiro at andrew dot cmu dot edu ]<br/>
 (replace "at" and "dot" with "@" and ".", respectively)<br/>
-(Last update: February 25, 2024)<br/><br/>
+(Last update: March 1, 2024)<br/><br/>
 
 ## About
 I am a Ph.D. student at [Language Technologies Institutes](https://www.lti.cs.cmu.edu/) in [Carnegie Mellon University](https://www.cmu.edu/). My research focus is on event-centric information extraction, specifically event temporal reasoning. During my undergrad, I worked on text generation, especially question generation. [[CV(pdf)](https://drive.google.com/file/d/1fGAvWT2AmVUpuLq5hNzCks8o8zg_ZxzG/view?usp=sharing)]
@@ -30,6 +30,9 @@ I am a Ph.D. student at [Language Technologies Institutes](https://www.lti.cs.cm
 ***
 <!-- <br/> -->
 ## Publications
+- "Formulation Comparison for Timeline Construction using LLMs." <br/>
+  __Kimihiro Hasegawa__, Nikhil Kandukuri, Susan Holm, Yukari Yamakawa, Teruko Mitamura<br/>
+  _arXiv 2024_ [[Paper](https://arxiv.org/submit/5426384/view)]
 - “Cross-document Event Identity via Dense Annotation.” <br/> 
   Adithya Pratapa, Zhengzhong Liu, __Kimihiro Hasegawa__, Linwei Li, Yukari Yamakawa, Shikun
 Zhang, Teruko Mitamura.<br/>
