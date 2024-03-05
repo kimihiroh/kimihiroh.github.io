@@ -5,10 +5,11 @@ layout: default
 # Kimihiro Hasegawa
 [ Email: kimihiro at andrew dot cmu dot edu ]<br/>
 (replace "at" and "dot" with "@" and ".", respectively)<br/>
-(Last update: March 1, 2024)<br/><br/>
+(Last update: March 5, 2024)<br/><br/>
 
 ## About
-I am a Ph.D. student at [Language Technologies Institutes](https://www.lti.cs.cmu.edu/) in [Carnegie Mellon University](https://www.cmu.edu/). My research focus is on event-centric information extraction, specifically event temporal reasoning. During my undergrad, I worked on text generation, especially question generation. [[CV(pdf)](https://drive.google.com/file/d/1fGAvWT2AmVUpuLq5hNzCks8o8zg_ZxzG/view?usp=sharing)]
+I am a Ph.D. student at [Language Technologies Institutes](https://www.lti.cs.cmu.edu/) in [Carnegie Mellon University](https://www.cmu.edu/). My research focus is on event-centric information extraction, specifically event temporal reasoning. During my undergrad, I worked on text generation, especially question generation. <br>
+[[CV(pdf)](https://drive.google.com/file/d/1fGAvWT2AmVUpuLq5hNzCks8o8zg_ZxzG/view?usp=sharing)]
 
 <!-- ### _News_ -->
 
