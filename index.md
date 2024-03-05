@@ -16,11 +16,11 @@ I am a Ph.D. student at [Language Technologies Institutes](https://www.lti.cs.cm
 <!-- <br/> -->
 ## Research Experience
 - May. 2020 - Present @CMU <br/>
-  - Graduate Research Assistant: Event-oriented Information Extraction
+  - Graduate Research Assistant
   - Adviser: [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
 
 - Apr. 2019 - Mar. 2020 @Kobe University <br/>
-  - Undergraduate Senior Research Project: Reasoning-enhansing Question Generation
+  - Undergraduate Thesis: "Transfer Learning to Generate Multi-sentence Questions Leveraging Difference Between Datasets"
   - Adviser: [Dr. Tetsuya Takiguchi](http://www.me.cs.scitec.kobe-u.ac.jp/~takigu/)
 
 - May. 2018 - Aug. 2018 @CMU <br/>
@@ -32,7 +32,7 @@ I am a Ph.D. student at [Language Technologies Institutes](https://www.lti.cs.cm
 ## Publications
 - "Formulation Comparison for Timeline Construction using LLMs." <br/>
   __Kimihiro Hasegawa__, Nikhil Kandukuri, Susan Holm, Yukari Yamakawa, Teruko Mitamura<br/>
-  _arXiv 2024_ [[Paper](https://arxiv.org/submit/5426384/view)]
+  _arXiv 2024_ [[Paper](https://arxiv.org/abs/2403.00990)]
 - “Cross-document Event Identity via Dense Annotation.” <br/> 
   Adithya Pratapa, Zhengzhong Liu, __Kimihiro Hasegawa__, Linwei Li, Yukari Yamakawa, Shikun
 Zhang, Teruko Mitamura.<br/>
@@ -61,14 +61,6 @@ Zhang, Teruko Mitamura.<br/>
 
 - Apr. 2015 - Mar. 2020: <br/>
   Undergraduate Student, Department of Computer Science and Systems Engineering, Kobe University, advised by [Dr. Tetsuya Takiguchi](http://www.me.cs.scitec.kobe-u.ac.jp/~takigu/)
-  - Bachelor's Thesis: "Transfer Learning to Generate Multi-sentence Questions Leveraging Difference between Datasets"
 
 - Aug. 2017 - Apr. 2018 : <br/>
   International Exchange Student, Dietrich School of Arts & Sciences, University of Pittsburgh
-
-<!-- <br/> -->
-### Personal
-My favorite movies:
-- _About Time_
-- _The Shawshank Redemption_
-- _3 Idiots_
