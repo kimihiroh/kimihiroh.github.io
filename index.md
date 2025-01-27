@@ -3,9 +3,9 @@ layout: default
 ---
 
 # Kimihiro Hasegawa
-[ Email: kimihiro at andrew dot cmu dot edu ]<br/>
+[ Email: kimihiro at cs dot cmu dot edu ]<br/>
 (replace "at" and "dot" with "@" and ".", respectively)<br/>
-(Last update: November 4, 2024)<br/><br/>
+(Last update: January 27, 2025)<br/><br/>
 
 ## About
 I am a Ph.D. student at [Language Technologies Institutes](https://www.lti.cs.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/). 
@@ -24,19 +24,23 @@ During my undergrad, I worked on text generation, especially [question generatio
 - May. 2020 - May. 2022: <br/>
   Master of Language Technologies, Language Technologies Institute, Carnegie Mellon University, advised by [Dr. Teruko Mitamura](http://www.cs.cmu.edu/~teruko/)
 
-- Apr. 2015 - Mar. 2020: <br/>
-  Undergraduate Student, Department of Computer Science and Systems Engineering, Kobe University, advised by [Dr. Tetsuya Takiguchi](http://www.me.cs.scitec.kobe-u.ac.jp/~takigu/)
-
 - Aug. 2017 - Apr. 2018: <br/>
   International Exchange Student, Dietrich School of Arts & Sciences, University of Pittsburgh
+
+- Apr. 2015 - Mar. 2020: <br/>
+  Undergraduate Student, Department of Computer Science and Systems Engineering, Kobe University, advised by [Dr. Tetsuya Takiguchi](http://www.me.cs.scitec.kobe-u.ac.jp/~takigu/)
 
 ***
 <!-- <br/> -->
 ## Publications
 - "ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding." <br/>
   __Kimihiro Hasegawa__, Wiradee Imrattanatrai, Zhi-Qi Cheng, Masaki Asada, Susan Holm, Yuran Wang, Ken Fukuda, Teruko Mitamura<br/>
-  _arXiv 2024_ [[Paper](https://arxiv.org/abs/2410.22211)]
-  
+  _NAACL 2025 (To appear)_ [[Paper](https://arxiv.org/abs/2410.22211)]
+
+- "A Videoo-grounded Dialogue Dataset and Metric for Event-Driven Activities." <br />
+  Wiradee Imrattanatrai, Masaki Asada, __Kimihiro Hasegawa__, Zhi-Qi Cheng, Ken Fukuda, Teruko Mitamura<br />
+  _AAAI 2025 (To appear)_
+
 - "Formulation Comparison for Timeline Construction using LLMs." <br/>
   __Kimihiro Hasegawa__, Nikhil Kandukuri, Susan Holm, Yukari Yamakawa, Teruko Mitamura<br/>
   _arXiv 2024_ [[Paper](https://arxiv.org/abs/2403.00990)]
