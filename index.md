@@ -35,11 +35,11 @@ During my undergrad, I worked on text generation, especially [question generatio
 ## Publications
 - "ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding." <br/>
   __Kimihiro Hasegawa__, Wiradee Imrattanatrai, Zhi-Qi Cheng, Masaki Asada, Susan Holm, Yuran Wang, Ken Fukuda, Teruko Mitamura<br/>
-  _NAACL 2025 (To appear)_ [[Paper](https://arxiv.org/abs/2410.22211)]
+  _NAACL 2025 (To appear)_ [[arXiv](https://arxiv.org/abs/2410.22211)]
 
 - "A Videoo-grounded Dialogue Dataset and Metric for Event-Driven Activities." <br />
   Wiradee Imrattanatrai, Masaki Asada, __Kimihiro Hasegawa__, Zhi-Qi Cheng, Ken Fukuda, Teruko Mitamura<br />
-  _AAAI 2025 (To appear)_
+  _AAAI 2025 (To appear)_ [[arXiv](http://arxiv.org/abs/2501.18324)]
 
 - "Formulation Comparison for Timeline Construction using LLMs." <br/>
   __Kimihiro Hasegawa__, Nikhil Kandukuri, Susan Holm, Yukari Yamakawa, Teruko Mitamura<br/>
